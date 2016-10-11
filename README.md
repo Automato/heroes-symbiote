@@ -1,1 +1,1 @@
-# heros-symbiote
+# Heroes-symbiote
